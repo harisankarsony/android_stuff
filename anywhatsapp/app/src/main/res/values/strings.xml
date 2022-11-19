@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">anywhatsapp</string>
+    <string name="phone_number_hint"><font size="16"> Enter your phone number </font></string>
+    <string name="message_hint"><font size="16">Enter your message </font></string>
+</resources>
