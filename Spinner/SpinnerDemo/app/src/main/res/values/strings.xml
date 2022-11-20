@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spinner Demonstration</string>
+    <string name="choose_language">Choose your preferred language:</string>
+</resources>
